@@ -8,20 +8,20 @@ const PAIRS = [
   {
     label: "Kitchen",
     title: "Maple Grove Kitchen",
-    before: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/a2c355e04_generated_image.png",
-    after: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/fad0c651c_generated_image.png",
+    before: "/images/a2c355e04_generated_image.png",
+    after: "/images/fad0c651c_generated_image.png",
   },
   {
     label: "Bathroom",
     title: "Farmhouse Spa Bath",
-    before: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/1c67637e1_generated_image.png",
-    after: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/e8ba37172_generated_image.png",
+    before: "/images/1c67637e1_generated_image.png",
+    after: "/images/e8ba37172_generated_image.png",
   },
   {
     label: "Deck",
     title: "Cedar Entertainment Deck",
-    before: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/95c1e4a36_generated_image.png",
-    after: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/dd6f8468e_generated_image.png",
+    before: "/images/95c1e4a36_generated_image.png",
+    after: "/images/dd6f8468e_generated_image.png",
   },
 ];
 

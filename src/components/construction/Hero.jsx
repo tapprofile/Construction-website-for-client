@@ -3,7 +3,7 @@ import { ChevronDown, Phone, ShieldCheck } from "lucide-react";
 import { Image } from "@/components/ui/image";
 import { ScrollZoom, ScrubText } from "./animations";
 
-const HERO_IMAGE = "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/3e9318bcf_generated_image.png";
+const HERO_IMAGE = "/images/3e9318bcf_generated_image.png";
 
 const fadeUp = (delay) => ({
   initial: { opacity: 0, y: 30 },

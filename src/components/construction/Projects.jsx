@@ -4,42 +4,42 @@ import { Parallax, ScrollDim, Reveal, ScrubText, Tilt } from "./animations";
 
 const PROJECTS = [
   {
-    img: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/fad0c651c_generated_image.png",
+    img: "/images/fad0c651c_generated_image.png",
     category: "Kitchen Remodel",
     location: "Your City, ST",
     title: "Maple Grove Kitchen",
     description: "Full gut renovation — white shaker cabinetry, quartz waterfall island, and brass fixtures throughout.",
   },
   {
-    img: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/e8ba37172_generated_image.png",
+    img: "/images/e8ba37172_generated_image.png",
     category: "Bathroom Remodel",
     location: "Your City, ST",
     title: "Farmhouse Spa Bath",
     description: "Freestanding tub, glass walk-in shower, and marble tile with a double oak vanity.",
   },
   {
-    img: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/b83b3772f_generated_image.png",
+    img: "/images/b83b3772f_generated_image.png",
     category: "Home Addition",
     location: "Your City, ST",
     title: "Two-Story Addition",
     description: "Framing, dry-in, and full finish of a second-story expansion, permitted end to end.",
   },
   {
-    img: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/dd6f8468e_generated_image.png",
+    img: "/images/dd6f8468e_generated_image.png",
     category: "Deck Build",
     location: "Your City, ST",
     title: "Cedar Entertainment Deck",
     description: "Premium cedar deck with cable railing and built-in bench seating.",
   },
   {
-    img: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/f565291fa_generated_image.png",
+    img: "/images/f565291fa_generated_image.png",
     category: "Concrete",
     location: "Your City, ST",
     title: "Stamped Driveway",
     description: "Stamped concrete driveway and walkway with crisp forms and broom finish.",
   },
   {
-    img: "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/c35830612_generated_image.png",
+    img: "/images/c35830612_generated_image.png",
     category: "Roofing",
     location: "Your City, ST",
     title: "Architectural Re-Roof",

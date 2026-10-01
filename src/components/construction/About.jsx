@@ -1,7 +1,7 @@
 import { Image } from "@/components/ui/image";
 import { Parallax, ScrubText, Reveal, Counter } from "./animations";
 
-const ABOUT_IMAGE = "https://media.base44.com/images/public/6ab97633f4c7819ddcb8bcc5/80c2427b5_generated_image.png";
+const ABOUT_IMAGE = "/images/80c2427b5_generated_image.png";
 
 const STATS = [
   { value: 20, suffix: "+", label: "Years experience" },
